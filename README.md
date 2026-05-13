@@ -34,10 +34,10 @@ while True:
     if user == "bye":
         break
 ## Concepts Used
-- Functions
-- Conditional Statements
-- Loops
-- User Input Handling
-- String Comparison
+#- Functions
+#- Conditional Statements
+#- Loops
+#- User Input Handling
+#- String Comparison
 ## Author
-Pavani
+#Pavani
