@@ -32,12 +32,12 @@ while True:
     print(greet(user))
 
     if user == "bye":
-        break
+        break'''
 ## Concepts Used
-#- Functions
-#- Conditional Statements
-#- Loops
-#- User Input Handling
-#- String Comparison
+- Functions
+- Conditional Statements
+- Loops
+- User Input Handling
+- String Comparison
 ## Author
-#Pavani
+- Pavani
