@@ -32,7 +32,8 @@ while True:
     print(greet(user))
 
     if user == "bye":
-        break'''
+        break
+```
 ## Concepts Used
 - Functions
 - Conditional Statements
