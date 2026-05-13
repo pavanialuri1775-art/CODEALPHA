@@ -10,8 +10,6 @@ def greet(user_input):
         return "I don't understand"
 while True:
     user=input("You: ")
-
     print(greet(user))
-
     if user=="bye":
         break
